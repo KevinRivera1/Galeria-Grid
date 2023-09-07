@@ -20,11 +20,7 @@ Este proyecto es una galería de imágenes diseñada utilizando CSS Grid para lo
 
 ## Capturas de Pantalla
 
-
-<video autoplay muted loop align="center">
-    <source src="./img/desktop_galery-grid.mp4" type="video/mp4">
-    Tu navegador no admite la reproducción de videos.
-</video>
+![Grid Imagenes](./img/desktop.gif)
 
 ## Demo en Vivo
 

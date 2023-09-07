@@ -24,7 +24,7 @@ Este proyecto es una galería de imágenes diseñada utilizando CSS Grid para lo
 
 ## Demo en Vivo
 
-Puedes ver una demostración en vivo de la galería [aquí](#).
+Puedes ver una demostración en vivo de la galería [aquí](https://kevinrivera1.github.io/Galeria-Grid/).
 
 ## Tecnologías Utilizadas
 
